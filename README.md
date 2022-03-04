@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Neliton Paiva de Souza
 
-- Trabalho atualmente com a linguagem Java e JavaScript
+- Trabalho atualmente com as linguagens Java e JavaScript
 - Utilizando as tecnologias HTML5 e CSS3
 - Estudando novas tecnologias
 
