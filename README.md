@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/nelitonps">
   <img width="auto" src="https://github-readme-stats.vercel.app/api?username=nelitonps&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="440vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelitonps&layout=compact&langs_count=7&theme=react"/>
+  <img width="420vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelitonps&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <div style="display: inline_block"><br>
