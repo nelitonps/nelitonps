@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/nelitonps">
-  <img width="425vw" height="200" src="https://github-readme-stats.vercel.app/api?username=nelitonps&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img width="475vw" height="200" src="https://github-readme-stats.vercel.app/api?username=nelitonps&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img width="380vw" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelitonps&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
