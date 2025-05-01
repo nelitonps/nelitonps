@@ -1,5 +1,5 @@
 ## Ola! Eu sou o Neliton Paiva de Souza
-
+Analista de Sistemas
 - Trabalho atualmente com as linguagens Java, Angular e JavaScript
 - Utilizando as tecnologias HTML5 e CSS3
 - Estudando novas tecnologias
